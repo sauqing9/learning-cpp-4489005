@@ -1,4 +1,4 @@
-// Learning C++ 
+// Learning C++ yey
 // Exercise 00_03
 // Using the exercise files on GitHub, by Eduardo Corpeño 
 
@@ -19,3 +19,4 @@ int main(){
     std::cout << std::endl << std::endl;
     return (0);
 }
+
